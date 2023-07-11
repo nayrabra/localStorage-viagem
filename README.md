@@ -14,7 +14,7 @@ Este projeto tem como objetivo praticar JavaScript e armazenar dados no navegado
 
 * O Local Storage é um recurso do JavaScript que permite armazenamento persistente de dados no navegador.
 * O método 'JSON.stringify()' foi utilizado para converter todos os elementos da lista em uma string antes de passá-los para o 'setItem()'. Isso permite armazenar os elementos no Local Storage.
-* É possível salvar informações localmente, como configurações do usuário, preferências e neste caso, itens necessários para uma viagem.
+* Com o Local Storage é possível salvar informações localmente, como configurações do usuário, preferências e neste caso, itens necessários para uma viagem.
 * Os itens armazenados podem ser acessados, removidos ou ter a quantidade atualizada. Para atualizar um item, basta digitá-lo novamente junto com uma nova quantidade.
 * Os dados persistem mesmo após atualizações ou fechamento do navegador.
 * Este projeto oferece uma "Mochila de Viagem" para ajudar a lembrar dos itens necessários para a sua viagem.
